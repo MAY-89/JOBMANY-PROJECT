@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.list-border-none{
+	border:none;
+}
+.CBoardTopMargin {
+	margin-top: 50px;
+}
+.CBoardBottomMargin{
+	margin-bottom: 50px;
+}
+.CBoardBottomMargin20{
+	margin-bottom: 20px;
+}
+
+.CBoardLinkNone{
+	text-decoration:none;
+	color:gray;
+}
+
+.CBoardTopMargin100{
+	margin-top: 100px;
+}
+
+.CBoardTopMargin20{
+	margin-top: 20px;
+}

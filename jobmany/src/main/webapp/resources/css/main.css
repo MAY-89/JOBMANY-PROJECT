@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* common */
+*{
+	margin: 0 auto;
+}
+/* header  */
+header{
+	height:165px;
+}
+header div{
+	float: right;
+	margin-right: 80px;
+}
+
+.btn{
+	margin-top: 15px;
+	color: black;
+	background: none;
+}
+
+/* main */
+section{
+	width: 1000px;
+	height:600px;
+}
+
+.main-logo{
+	height: 200px;
+	text-align: center;
+}
+.main-logo span{
+}
+.form-control{
+	width: 1000px;
+}
+.card{
+	margin-top: 40px;
+	
+}
+section .row .col-md-4{
+	width: 300px;
+	
+}
+.card-title{
+	font-weight: bold;
+	color: #0b879e;
+}
+
+/* footer */
+footer{
+	height: 200px;
+}

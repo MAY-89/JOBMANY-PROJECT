@@ -1,0 +1,40 @@
+   <style>
+    	@font-face {
+		    font-family: 'GmarketSansBold';
+		    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+    	*{
+    		
+    	}
+    	.btn{
+    		color: black;
+    		font-weight: bold;
+    	}
+    	.btn:hover{
+    		font-family: 'GmarketSansBold';
+    		font-weight: bold;
+    		background: linear-gradient(to top, #0b879e, rgba(255,255,255, 1));
+    	}
+    	.sign-img-bg{
+    		margin-top: 36px;
+    		margin-left: 30px;
+    	}
+    	.sign-epw{
+    		padding-top: 50px;
+    	}
+    	.sign-pimg{
+    		margin-top: 30px;
+    	}
+    	.btnFile{
+    		margin-left: 10px;
+    	}
+    	.hiddenMember{
+    		display: none;
+    	}
+    	.virLineFind{
+    		border-left: 1px solid black;
+    	}
+    	
+    </style>
